@@ -1,0 +1,5 @@
+1. index.html을 실행하시면 시각화 알고리즘이 나옵니다.
+
+2. index.html을 임의로 이동하지 말아주세요.
+
+3. 출처 : github, https://mahfuzrifat7.github.io/SortingVisualizer/
